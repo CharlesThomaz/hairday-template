@@ -53,7 +53,7 @@ projeto-agendamento/
 
 ## 📷 Exemplo da Tela
 
-![Tela do Projeto](exemplo.png)
+![Tela do Projeto](./preview.png)
 
 ---
 
