@@ -37,7 +37,7 @@ projeto-agendamento/
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-agendamento.git
+   git clone https://github.com/CharlesThomaz/hairday-template
    ```
 
 2. Navegue até o diretório:
